@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B3CBD203-764E-4AAB-B965-EB26E31EA637</string>
+	<key>IDESourceControlProjectName</key>
+	<string>maper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E25F4AA9C2B1D7AD27B9B299B03B4953907CFAD</key>
+		<string>git.umlife.net:linxiaolong/ios_maper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>maper.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E25F4AA9C2B1D7AD27B9B299B03B4953907CFAD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.umlife.net:linxiaolong/ios_maper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E25F4AA9C2B1D7AD27B9B299B03B4953907CFAD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E25F4AA9C2B1D7AD27B9B299B03B4953907CFAD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Maper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
